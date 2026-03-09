@@ -2,8 +2,8 @@
   "name": "marloww",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
-    "type": "offline"
+    "password": "technoo1233",
+    "type": "technoo1233"
   },
   "server": {
     "ip": "friendsserver121.playserver.pro",
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "technoo1233"
     },
     "anti-afk": {
       "enabled": true,
@@ -38,7 +38,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
